@@ -44,14 +44,16 @@ img {
     width: 100%;
 }
 
-/* 2. ---Header--- */
+.icons {
+	width: 600px;
+	height: 600px;
+}
 
 .headerimg {
 	width: 1920px;
 	height: auto;
 }
 
-/* 3. ---Footer--- */
 
 .footerimg {
 	width: 1920px;
