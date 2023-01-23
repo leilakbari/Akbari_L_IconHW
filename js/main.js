@@ -21,7 +21,7 @@ let bikiniIcon = document.querySelector("#bikiniIcon");
 let umbrellaIcon = document.querySelector("#umbrellaIcon");
 let watchIcon = document.querySelector("#watchIcon");
 let pantsIcon = document.querySelector("#pantsIcon");
-let shirtIcon = document.querySelector("#shirtIcon");
+// let shirtIcon = document.querySelector("#shirtIcon");
 
 
 // Step 3 - what happens when event is triggered?// 
@@ -64,9 +64,9 @@ function pantsIcon () {
     console.log(this.id);
 }
 
-function shirtIcon () {
-    console.log(this.id);
-}
+// function shirtIcon () {
+//     console.log(this.id);
+// }
 
 // Step 2 - how do you want the user interac with the element// 
 // bitmapGraphic.addEventListener('click',logID);
@@ -79,4 +79,4 @@ bikiniIcon.addEventListener('click',bikiniIcon);
 umbrellaIcon.addEventListener('click',umbrellaIcon);
 watchIcon.addEventListener('click',watchIcon);
 pantsIcon.addEventListener('click',pantsIcon);
-shirtIcon.addEventListener('click',shirtIcon);
+// shirtIcon.addEventListener('click',shirtIcon);
