@@ -1,7 +1,7 @@
 # Akbari_L_IconHW
 # My Super Awsome Icon Project
 
-TODO: Write a project descriptio
+TODO: There are 9 icons in the web page and I write JS code for them, and with the help of which you can track the number of clicks on each icon.
 
 ## Contributing
 
@@ -12,7 +12,8 @@ TODO: Write a project descriptio
 5. Submit a pull request :D
 
 ## Credits
-TODO: Write credits (any videos or resorses you searched and get help)
+TODO: Write credits:
+https://www.w3schools.com/css/css_inline-block.asp
 
 ## License
 MIT

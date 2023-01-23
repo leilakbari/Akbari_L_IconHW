@@ -70,8 +70,9 @@ function pantsIcon () {
 
 // Step 2 - how do you want the user interac with the element// 
 // bitmapGraphic.addEventListener('click',logID);
-towelIcon.addEventListener('click',towelIcon);
-wimmingsuitIcon.addEventListener('click',wimmingsuitIcon);
+
+towelIcon.addEventListener('click,towelIcon');
+swimmingsuitIcon.addEventListener('click',swimmingsuitIcon);
 slippersIcon.addEventListener('click',slippersIcon);
 scarfIcon.addEventListener('click',scarfIcon);
 hatIcon.addEventListener('click',hatIcon);
