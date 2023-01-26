@@ -1,7 +1,6 @@
-# Akbari_L_IconHW
-# My Super Awsome Icon Project
+# Beach Day Icon Project
 
-TODO: There are 9 icons in the web page and I write JS code for them, and with the help of which you can track the number of clicks on each icon.
+TODO: I randomly choose Bach Day theme and designed 9 icons based on it for the web page. Then I wrote JS code for them, and with the help of JS code if you hover your mouse on each icon they would shake, and also you can track the number of clicks on each icon.
 
 ## Contributing
 
