@@ -1,7 +1,6 @@
-# Akbari_L_IconHW
-# My Super Awsome Icon Project
+# Beach Day Icon Project
 
-TODO: Write a project descriptio
+TODO: I randomly choose Bach Day theme and designed 9 icons based on it for the web page. Then I wrote JS code for them, and with the help of JS code if you hover your mouse on each icon they would shake, and also you can track the number of clicks on each icon.
 
 ## Contributing
 
@@ -12,7 +11,8 @@ TODO: Write a project descriptio
 5. Submit a pull request :D
 
 ## Credits
-TODO: Write credits (any videos or resorses you searched and get help)
+TODO: Write credits:
+https://www.w3schools.com/css/css_inline-block.asp
 
 ## License
 MIT
