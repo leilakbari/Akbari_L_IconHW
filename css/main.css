@@ -181,6 +181,24 @@ section {
 	animation: rotate 0.7s ease-in-out both;
 }
 
+.second-coloumn4 {
+	margin-right: 200px;
+	margin-bottom: 200px;
+}
+
+.second-coloumn4:hover {
+	animation: rotate 0.7s ease-in-out both;
+}
+
+.third-coloumn4 {
+	margin-right: 200px;
+	margin-bottom: 200px;
+}
+
+.third-coloumn4:hover {
+	animation: rotate 0.7s ease-in-out both;
+}
+
 .headerimg {
 	width: 100%;
 	height: auto;
